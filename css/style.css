@@ -1,0 +1,120 @@
+body{
+  font-family: "Roboto", sans-serif;
+  background-color: #ffffff;
+  color:#434455;
+}
+ul, ol{
+      list-style-type: none;
+}
+a{    
+  text-decoration: none;
+}
+.adres{
+  font-style: normal;
+}
+.logo{
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-align: left;
+  text-transform: uppercase;
+  color:#4D5AE5;
+}
+.logo_text{
+  color:#2E2F42;
+}
+.class_nav{
+ font-size: 16px;
+ font-weight: 500;
+ line-height: 24px;
+ letter-spacing: 0.02em;
+ color:#2E2F42;
+}
+.class_nav:focus, .class_nav:hover{
+  color: #404BBF;
+}
+.adress_link{
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color:#434455;
+}
+.adress_link:focus, .adress_link:hover{
+  color: #404BBF;}
+.Your_Business{
+  background-color: #2E2F42;
+}
+.Your_Business_h{
+font-size: 56px;
+font-weight: 700;
+line-height: 60px;
+letter-spacing: 0.02em;
+text-align: center;
+color:#FFFFFF;
+}
+.Your_Business_button{
+  background-color: #4D5AE5;
+  color: #FFFFFF;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.04em;
+  cursor: pointer;
+}
+.Your_Business_button:focus, .Your_Business_button:hover {
+    background-color: #404BBF;
+}
+.section_Our_Team{
+  background-color: #F4F4FD;
+}
+.section_Our_Team_link{
+  background-color: #fff;
+}
+.section_name_h2{
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalize;
+  color: #2E2F42;
+}
+.section_name_h3{
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #2E2F42;
+}
+.section_text{
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.footer{
+  background-color: #2E2F42;
+}
+.footer_logo{
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4D5AE5;
+}
+.footer_logo-text{
+  color: #F4F4FD;
+}
+.footer_text{
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #F4F4FD;
+}
